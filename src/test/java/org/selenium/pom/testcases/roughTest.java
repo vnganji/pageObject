@@ -34,7 +34,7 @@ public class roughTest {
 	public static WebDriver driver = null;
 @Test
 	public void node() throws MalformedURLException{
-		
+		//adding new desired capabilities
 	DesiredCapabilities dc = new DesiredCapabilities();
 	dc.setBrowserName("chrome");
 	dc.setPlatform(Platform.WINDOWS);
