@@ -1,0 +1,6 @@
+20:07:29.641 [main] INFO  resources.WebCustElements - login:Username set with value vnganji77@gmail.com
+20:07:30.371 [main] INFO  resources.WebCustElements - login:Password set with value test
+20:07:30.559 [main] INFO  org.selenium.pom.testcases.landingTest - Driver Initialized Successfully
+20:07:47.878 [main] INFO  resources.WebCustElements - login:Username set with value poornag81@gmail.com
+20:07:48.262 [main] INFO  resources.WebCustElements - login:Password set with value test
+20:26:01.917 [main] INFO  org.selenium.pom.testcases.landingTest - Driver Initialized Successfully

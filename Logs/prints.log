@@ -1,0 +1,6 @@
+20:26:39.038 [main] INFO  resources.WebCustElements - login:Username set with value vnganji77@gmail.com
+20:26:55.713 [main] INFO  resources.WebCustElements - login:Password set with value test
+20:26:55.881 [main] INFO  org.selenium.pom.testcases.landingTest - Driver Initialized Successfully
+20:27:18.887 [main] INFO  resources.WebCustElements - login:Username set with value poornag81@gmail.com
+20:27:19.343 [main] INFO  resources.WebCustElements - login:Password set with value test
+20:30:07.305 [main] ERROR basePage - class pageObj.Landingpage not dialayed, run stopped

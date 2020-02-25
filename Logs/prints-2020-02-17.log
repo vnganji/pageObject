@@ -1,0 +1,6 @@
+00:59:06.367 [main] ERROR org.selenium.pom.testcases.landingTest - login button displayed
+00:59:07.174 [main] INFO  org.selenium.pom.testcases.landingTest - email id displayed on the login page
+01:11:02.217 [main] INFO  org.selenium.pom.testcases.landingTest - Driver Initialized Successfully
+01:11:28.622 [main] ERROR org.selenium.pom.testcases.landingTest - login button displayed
+01:12:39.412 [main] ERROR basePage - class pageObj.Landingpage not dialayed, run stopped
+01:57:05.658 [main] INFO  org.selenium.pom.testcases.landingTest - Driver Initialized Successfully

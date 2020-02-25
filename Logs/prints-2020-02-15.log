@@ -1,0 +1,6 @@
+18:40:23.959 [main] ERROR org.selenium.pom.testcases.landingTest - login button not displayed
+19:03:48.088 [main] INFO  org.selenium.pom.testcases.landingTest - Driver Initialized Successfully
+19:04:20.552 [main] ERROR org.selenium.pom.testcases.landingTest - login button not displayed
+19:35:09.460 [main] INFO  org.selenium.pom.testcases.landingTest - Driver Initialized Successfully
+19:35:57.075 [main] ERROR org.selenium.pom.testcases.landingTest - login button not displayed
+20:07:11.517 [main] INFO  org.selenium.pom.testcases.landingTest - Driver Initialized Successfully
