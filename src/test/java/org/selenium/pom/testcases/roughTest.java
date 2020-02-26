@@ -63,7 +63,7 @@ public class roughTest {
 
 		List<String> ordername = names;
 		names.clear();
-		// sort in ascending order
+		// sort in ascending order tetett
 		Collections.sort(ordername);
 		// click the name column to get the ascending order
 		driver.findElement(By.xpath("//table[@id='example']//tr[@role='row']/th[1]")).click();
